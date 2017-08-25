@@ -1,4 +1,4 @@
-Bacterial genome assembly pipeline
+Bacterial genome contamination analysis
 =======================
 
 This pipeline compares the assembly of a bacterial genome against the NT database.
