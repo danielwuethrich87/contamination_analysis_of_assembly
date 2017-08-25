@@ -15,7 +15,7 @@ This pipeline compares the assembly of a bacterial genome against the NT databas
 
 wget https://github.com/danielwuethrich87/contamination_analysis_of_assembly/archive/master.zip<br />
 unzip master.zip<br />
-cd contamination_analysis_of_assembly<br />
+cd contamination_analysis_of_assembly-master<br />
 sh get_dbs.sh<br />
 
 #Usage:
