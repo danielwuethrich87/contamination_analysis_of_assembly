@@ -1,7 +1,11 @@
 Bacterial genome contamination analysis
 =======================
 
-This pipeline compares the assembly of a bacterial genome against the NT database.
+This pipeline compares the assembly of a bacterial genome against the NT database.<br />
+
+Steps:<br />
+-rRNA genes are extracted and blasted against 16S database<br />
+-WGS Blast against nt database<br />
 
 #Requirements:
 
